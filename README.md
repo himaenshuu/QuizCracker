@@ -33,7 +33,7 @@ It’s your *AI-powered sidekick* built to:
 
 ## 🎉 Explore & Enjoy
 
-No more quiz anxiety. No more low scores.  
+No more quiz anxiety. No more low scores
 Just pure, AI-powered quiz domination. 💪  
 Explore the app, have fun, and let the grades roll in!
 
