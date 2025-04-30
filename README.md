@@ -21,7 +21,7 @@ It’s your *AI-powered sidekick* built to:
 - 🖼️ Got a tricky image-based question? We handle it.  
 - 📄 Dig answers from PDFs like a nerdy ninja  
 - 🔗 Smash through link-based queries  
-- 🤫 And more sneaky tools waiting for you to discover
+- 🤫 And more sneaky tools waiting for you to discover.
 
 ---
 
