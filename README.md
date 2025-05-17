@@ -1,4 +1,4 @@
-# 🤯 quizCrack – Your Quiz Savior!
+# 🤯 quizCrack – Your Quiz Savior-!
 
 Are you tired of staring at quizzes like they’re ancient scrolls?  
 Do your teachers act like Avengers every time you score low?  
